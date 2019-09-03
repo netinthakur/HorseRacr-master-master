@@ -216,7 +216,7 @@ namespace HorseRacr
                     */
                     for (int i = 0; i < objgame.Length; i++)
                     {
-                        /*check the winning dog from race using the run method of the
+                        /*check the winning horse from race using the run method of the
                             class greyhounds and increment the value of the local variable to get the position of the winning horse
                         */
                         if (objgame[i].move())
